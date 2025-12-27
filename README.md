@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi 👋 I'm Kunal<br><br>🎯 Learning Data Structures & Algorithms  <br>🌐 Learning Web Development  <br>💻 C++ | HTML | CSS | JavaScript  <br><br>📌 Currently working on:<br>- DSA practice (arrays, strings, recursion)<br>- Basic web projects<br>
+## Hi 👋 I'm Kunal<br><br>🎯 Learning Data Structures & Algorithms  <br>🌐 Learning Web Development  <br>💻 C++ | HTML | CSS | JavaScript  <br><br>📌 Currently working on:<br>- DSA practice <br>- Basic web projects<br>
 
 
 ## 🌐 Socials:
